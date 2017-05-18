@@ -13,10 +13,10 @@ _The game renders on an HTML5 canvas element, and features 3 full sprite sheet a
 
 ## Setup/Installation Requirements
 
-* _Clone this repository (https://github.com/megankaluza/graveyard-ninja.git) to your desktop_
+* _Clone this repository (https://github.com/calebpaul/graveyard-ninja.git) to your desktop_
 * _Open index.html in the browser of your choosing_
 
-* _Alternatively, navigate to (https://megankaluza.github.io/graveyard-ninja/)_
+* _Alternatively, navigate to (https://calebpaul.github.io/graveyard-ninja/)_
 
 ## Known Bugs
 
